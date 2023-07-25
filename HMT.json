@@ -28,9 +28,13 @@
       {
          "name": "TH-VIP-007",
          "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-007.ovpn"
-      }
+      },
+      {
+         "name": "TH-VIP-008",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-008.ovpn"
+}
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: +4\n\nConfig By:HMT VIP VPN ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: +5\n\nConfig By:HMT VIP VPN ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 4
+   "version": 5
 }
