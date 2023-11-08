@@ -2,23 +2,23 @@
    "files": [    
 
 {
-         "name": "DTAC-01",
+         "name": "TH-DTAC-01",
          "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-01.ovpn"
       },
 {
-         "name": "DTAC-02",
+         "name": "TH-DTAC-02",
          "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-02.ovpn"
       },
 {
-         "name": "DTAC-03",
+         "name": "TH-DTAC-03",
          "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-03.ovpn"
       },
 {
-         "name": "TRUE-04",
+         "name": "TH-TRUE-04",
          "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TRUE-01.ovpn"
       },
       {
-         "name": "TRUE-05",
+         "name": "TH-TRUE-05",
          "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TRUE-02.ovpn"
       },
 {
@@ -29,7 +29,7 @@
 "message":"✅Dtac 61ဘတ်ရက်90 ပက်ကေ့
 ✅True 59ဘတ်ရက်30 Youtube ပက်ကေ့*900*3967#
 ဖော်ပြပါပက်ကေ့စမတ်မှသာ VIPတစ်လ50ဘတ်ဖြင့်အသုံးပြုရပါမယ် အားပေးမှု့အတွက်ကျေးဇူးတင်ပါတယ်။
-Update အဆင့်မြင့်ရန်နိမ့်ပါ👇\nAll New Servers\nVersion: +20\n\nConfig By:HMT VIP VPN ",
+Update အဆင့်မြင့်ရန်နိမ့်ပါ👇\nAll New Servers\nVersion: +1.2\n\nConfig By:HMT VIP VPN ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 20
+   "version": 1.2
 }
